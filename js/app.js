@@ -157,7 +157,7 @@
 //     break;
 // }
 // let natija = `${x100} ${x10} ${x1}`;
-// if (isNaN(num)) {
+// if (num) {
 //   alert("Iltimos son kiriting");
 // } else if (num < first) {
 //   alert("Iltimos 1 dan katta son kiriting");
@@ -166,3 +166,6 @@
 // } else {
 //   alert(natija);
 // }
+
+//============
+// tushuntirish- bu yerda 1 dan 999 gacha barcha soni promptga kiritadi va alertda harflab oqib beradi!
